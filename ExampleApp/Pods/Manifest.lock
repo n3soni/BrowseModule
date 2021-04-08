@@ -1,5 +1,5 @@
 PODS:
-  - BrowseModule (1.0.0)
+  - BrowseModule (1.0.1)
 
 DEPENDENCIES:
   - BrowseModule (from `../BrowseModule`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../BrowseModule"
 
 SPEC CHECKSUMS:
-  BrowseModule: 3070ab25b6bab9e4418522caade5d40e8e296b37
+  BrowseModule: 640ed1eeea4cefdcc4974e46ca1f0220bf207b75
 
 PODFILE CHECKSUM: 76ffe2966cb084ab46c881005ee4424663c81d43
 

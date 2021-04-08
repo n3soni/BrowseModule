@@ -1,6 +1,6 @@
 {
   "name": "BrowseModule",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "summary": "To be used in Africa app",
   "description": "This will help to browse from a given set provided",
   "homepage": "https://github.com/n3soni/BrowseModule",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/n3soni/BrowseModule.git",
-    "tag": "1.0.0"
+    "tag": "1.0.1"
   },
   "source_files": "BrowseModule/**/*.{swift}",
   "swift_versions": "5.0",

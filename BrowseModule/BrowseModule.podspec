@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "BrowseModule"
-  spec.version      = "1.0.0"
+  spec.version      = "1.0.1"
   spec.summary      = "To be used in Africa app"
 
   spec.description  = "This will help to browse from a given set provided"
