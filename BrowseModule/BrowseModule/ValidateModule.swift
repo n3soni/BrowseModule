@@ -9,6 +9,6 @@ import Foundation
 
 public struct Validator {
     public static func whereAreYou() {
-        print("I am inside BrowseModule")
+        print("Hi there, I am inside BrowseModule")
     }
 }
