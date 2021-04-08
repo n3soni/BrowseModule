@@ -2,15 +2,15 @@ PODS:
   - BrowseModule (1.0.0)
 
 DEPENDENCIES:
-  - BrowseModule (from `../BrowseModule`)
+  - BrowseModule
 
-EXTERNAL SOURCES:
-  BrowseModule:
-    :path: "../BrowseModule"
+SPEC REPOS:
+  trunk:
+    - BrowseModule
 
 SPEC CHECKSUMS:
   BrowseModule: 3070ab25b6bab9e4418522caade5d40e8e296b37
 
-PODFILE CHECKSUM: ccd924668ecd9c9878b0d29c242107d613e2e3cf
+PODFILE CHECKSUM: 3d05d11eb41346c13811c6ee480b1ea23c5b20cf
 
 COCOAPODS: 1.10.1

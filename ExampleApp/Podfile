@@ -6,7 +6,8 @@ target 'ExampleApp' do
   use_frameworks!
 
   # Pods for ExampleApp
-    pod 'BrowseModule', :path => "../BrowseModule"
+    #pod 'BrowseModule', :path => "../BrowseModule"
+    pod 'BrowseModule'
   target 'ExampleAppTests' do
     inherit! :search_paths
     # Pods for testing
