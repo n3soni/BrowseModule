@@ -1,0 +1,16 @@
+PODS:
+  - BrowseModule (1.0.0)
+
+DEPENDENCIES:
+  - BrowseModule (from `../BrowseModule`)
+
+EXTERNAL SOURCES:
+  BrowseModule:
+    :path: "../BrowseModule"
+
+SPEC CHECKSUMS:
+  BrowseModule: 3070ab25b6bab9e4418522caade5d40e8e296b37
+
+PODFILE CHECKSUM: ccd924668ecd9c9878b0d29c242107d613e2e3cf
+
+COCOAPODS: 1.10.1
